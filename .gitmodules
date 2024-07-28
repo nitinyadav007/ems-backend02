@@ -1,0 +1,3 @@
+[submodule "apps/ems-common"]
+	path = apps/ems-common
+	url = https://github.com/nitinyadav007/ems-common.git
